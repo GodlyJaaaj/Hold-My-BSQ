@@ -18,6 +18,7 @@ So, if you are a beginner, don't be afraid to participate. You will learn a lot 
   - dependencies if needed and how to install them
 - you must provide a public repository with your code
 - your program must be named `bsq`
+- tested only on 10k x 10k maps
 
 ---
 
